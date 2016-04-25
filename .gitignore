@@ -60,3 +60,11 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#folders to ignore
+udacity/notMNIST_large/
+udacity/notMNIST_small/
+udacity/notMNIST_large.tar.gz
+udacity/notMNIST_small.tar.gz
+udacity/notMNIST.pickle
+tensorflow/
